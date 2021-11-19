@@ -484,7 +484,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 𝓱𝓪𝓬𝓴𝓣𝓱𝓪𝓬𝓴𝓮𝓻
 
 ---
-
+https://www.paypal.com/donate?hosted_button_id=GVZ23CFW2ET2G
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
