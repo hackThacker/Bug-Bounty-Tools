@@ -1,5 +1,6 @@
-# Awesome Bug Bounty Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Bug Bounty Tools [![Awesome](https://awesome.re/badge.svg)](https://hackthacker.blogspot.com/)
 
+꧁𓊈𒆜🅽🅴🅴🆁🅰🅹𒆜𓊉꧂
 > A curated list of various bug bounty tools
 
 ## Contents
@@ -479,6 +480,8 @@ Lorem ipsum dolor sit amet
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+𝓱𝓪𝓬𝓴𝓣𝓱𝓪𝓬𝓴𝓮𝓻
 
 ---
 
